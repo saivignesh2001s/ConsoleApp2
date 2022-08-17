@@ -17,6 +17,7 @@
             Console.WriteLine(r);
             Console.WriteLine("Hello, World!");
             Console.Write(DateTime.Now);
+            Console.ReadLine();
         }
     }
 }
